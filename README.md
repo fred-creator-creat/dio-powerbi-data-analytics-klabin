@@ -23,7 +23,7 @@ Este repositório contém o projeto de ETL (Extração, Transformação e Carga)
 
 O processo foi executado integralmente no Power BI para garantir a integridade dos dados:
 
-### 1. Conexão e Limpeza Inicial (Fase 0 e A)
+### 1. Conexão e Limpeza Inicial (Fase A)
 *   **Importação**: O dataset bruto (arquivo Excel original) foi baixado e conectado diretamente ao Power Query.
 *   **Saneamento**: Remoção de linhas duplicadas e tratamento de espaços em branco em colunas de texto.
 *   **Tipagem de Dados**: Ajuste dos campos numéricos para o formato **Moeda (Currency)**, assegurando que os cálculos de faturamento e lucro sejam precisos.

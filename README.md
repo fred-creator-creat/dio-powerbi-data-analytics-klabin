@@ -21,11 +21,12 @@ Este repositório contém o projeto de ETL (Extração, Transformação e Carga)
 
 ## 💻 Notas de Hardware e Adaptação Técnica
 
-Este projeto foi executado sob condições específicas de hardware, o que exigiu uma gestão rigorosa dos recursos da máquina:
+Este projeto foi executado sob condições rigorosas de hardware, o que exigiu resiliência e uma gestão estratégica dos recursos da máquina:
 
-*   **Ambiente de Desenvolvimento**: O projeto foi realizado em um computador emprestado com limitações de hardware (processamento e memória).
-*   **Adaptação de Fluxo**: Devido à carga do Power BI Desktop, o fluxo de trabalho foi otimizado para evitar travamentos, priorizando o processamento em nuvem ou via web sempre que possível em outros projetos.
-*   **Otimização**: A necessidade de desinstalar ferramentas secundárias para priorizar a instalação do Power BI demonstra o foco na entrega deste desafio, mesmo com restrições técnicas de performance e tempo de carregamento.
+*   **Ambiente de Desenvolvimento**: O projeto foi realizado em um computador emprestado com severas limitações de processamento e memória RAM.
+*   **Otimização de Espaço**: Foi necessária a desinstalação de diversos softwares e ferramentas secundárias para viabilizar a instalação e o funcionamento do Power BI Desktop.
+*   **Desafio de Performance**: Devido à carga do sistema, o desenvolvimento enfrentou congelamentos constantes e travamentos ao alternar entre o Power BI e o navegador web, exigindo um fluxo de trabalho paciente e adaptado ao tempo de resposta do hardware.
+*   **Adaptação de Fluxo**: Para mitigar a lentidão e evitar interrupções, o fluxo foi otimizado para priorizar o processamento local apenas quando essencial, mantendo o foco na entrega final mesmo com restrições técnicas de performance e carregamento.
 
 ---
 

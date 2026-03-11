@@ -8,8 +8,7 @@ Este repositório contém o projeto de ETL (Extração, Transformação e Carga)
 
 *   **Plataforma de Ensino**: [DIO (Digital Innovation One)](https://www.dio.me/)
 *   **Empresa Patrocinadora**: [Klabin](https://www.klabin.com.br/)
-*   **Instrutora**: Camila Montenegro
-*   **Desenvolvedor**: [Seu Nome Aqui]
+*   **Desenvolvedor**: [Frederico Cavalheiro]
 
 ---
 
@@ -59,7 +58,7 @@ Abaixo estão os links individuais para cada componente do projeto. Você pode v
 
 ## 💻 Notas de Desenvolvimento
 
-O fluxo de trabalho foi focado na eficiência do **Power Query**, demonstrando a capacidade de transformar dados brutos em informações estruturadas prontas para a tomada de decisão. Todo o tratamento foi feito localmente após o download da base original da instrutora Camila Montenegro.
+O fluxo de trabalho foi focado na eficiência do **Power Query**, demonstrando a capacidade de transformar dados brutos em informações estruturadas prontas para a tomada de decisão. Todo o tratamento foi feito localmente após o download da base original.
 
 ---
 **Projeto desenvolvido para portfólio de análise de dados.**

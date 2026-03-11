@@ -61,4 +61,13 @@ Abaixo estão os links individuais para cada componente do projeto. Você pode v
 O fluxo de trabalho foi focado na eficiência do **Power Query**, demonstrando a capacidade de transformar dados brutos em informações estruturadas prontas para a tomada de decisão. Todo o tratamento foi feito localmente após o download da base original.
 
 ---
+
+## 📞 Contato e Conexão
+**Fred Cavalheiro**
+* 🔄 **Em transição de carreira:** De Vigilante para a área de Tecnologia.
+* 🎓 **Técnico em Desenvolvimento de Sistemas** (Formado pelo Senac).
+* 📚 **Estudante de:** Machine Learning e Análise de Dados (Python, Neo4j, Power BI e Excel).
+* 🔗 **[Meu Perfil no LinkedIn](https://www.linkedin.com/in/fred-cavalheiro/)**
+
+---
 **Projeto desenvolvido para portfólio de análise de dados.**

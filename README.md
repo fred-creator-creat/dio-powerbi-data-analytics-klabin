@@ -23,17 +23,17 @@ Este repositório contém o projeto de ETL (Extração, Transformação e Carga)
 
 O processo foi executado integralmente no Power BI para garantir a integridade dos dados:
 
-### 1. Conexão e Limpeza Inicial (Fase A)
+### 1. Conexão e Limpeza Inicial (Fase 1)
 *   **Importação**: O dataset bruto (arquivo Excel original) foi baixado e conectado diretamente ao Power Query.
 *   **Saneamento**: Remoção de linhas duplicadas e tratamento de espaços em branco em colunas de texto.
 *   **Tipagem de Dados**: Ajuste dos campos numéricos para o formato **Moeda (Currency)**, assegurando que os cálculos de faturamento e lucro sejam precisos.
 
-### 2. Otimização da Estrutura (Fase B)
+### 2. Otimização da Estrutura (Fase 2)
 *   **Redução de Redundância**: Foram removidas manualmente as colunas `Month Number`, `Month Name` e `Year`. 
     > *Nota: Essa decisão foi tomada para otimizar o modelo, centralizando a inteligência temporal na tabela de calendário (`dCalendario`).*
 *   **Modelagem**: Criação da tabela de dimensões de tempo para suporte a análises comparativas (YoY, MoM).
 
-### 3. Encerramento e Cálculos (Fase C)
+### 3. Encerramento e Cálculos (Fase 3)
 *   Criação de colunas customizadas e medidas para alimentar os KPIs do dashboard final.
 
 ---
